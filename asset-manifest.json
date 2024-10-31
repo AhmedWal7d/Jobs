@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Jobs/static/css/main.9a14e5a7.css",
+    "main.js": "/Jobs/static/js/main.7b236776.js",
+    "static/js/453.cfd59cba.chunk.js": "/Jobs/static/js/453.cfd59cba.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Jobs/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Jobs/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Jobs/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/offline.jpg": "/Jobs/static/media/offline.a4afa73e7ba0b51cc65a.jpg",
+    "static/media/fa-brands-400.woff2": "/Jobs/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/Slider.png": "/Jobs/static/media/Slider.23283b5eba7a6cdfdb4e.png",
+    "static/media/fa-regular-400.ttf": "/Jobs/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/logosvg.png": "/Jobs/static/media/logosvg.4c0fec2dcf20b8c2eb9f.png",
+    "static/media/fa-regular-400.woff2": "/Jobs/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Jobs/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Jobs/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/Jobs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Jobs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Jobs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Jobs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Jobs/index.html",
+    "main.9a14e5a7.css.map": "/Jobs/static/css/main.9a14e5a7.css.map",
+    "main.7b236776.js.map": "/Jobs/static/js/main.7b236776.js.map",
+    "453.cfd59cba.chunk.js.map": "/Jobs/static/js/453.cfd59cba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a14e5a7.css",
+    "static/js/main.7b236776.js"
+  ]
+}
